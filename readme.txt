@@ -4,9 +4,9 @@ I'm a Computer Science student at **UMass Amherst** with minors in **Business** 
 
 ## 🚀 About Me
 
-- **Seeking:** Work and mentorship in **Cybersecurity** and **Software Engineering**
-- **Programming Languages:** Python, Java, JavaScript, C, R, C++
-- **Tech Skills:** NumPy, Pandas, Wireshark, Zeek, Snort, NodeJS, ReactJS
+- Seeking: Work and mentorship in Cybersecurity and Software Engineering
+- Programming Languages: Python, Java, JavaScript, C, R, C++
+- Tech Skills: NumPy, Pandas, Wireshark, Zeek, Snort, NodeJS, ReactJS
 
 ## 🌱 Currently Learning
 
@@ -19,9 +19,9 @@ Feel free to reach out if you have advice, opportunities, or just want to chat!
 
 ## ⚡ Fun Facts
 
-- My favorite sport is **Hockey**
-- I love to **snowboard** in the winter and **cliff jump** in the summer
-- I can do a **triple backflip** (yes, really!)
+- My favorite sport is Hockey
+- I love to snowboard in the winter and cliff jump in the summer
+- I can do a triple backflip never being a gymnast or diver (yes, really!)
 
 ---
 
