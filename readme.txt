@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Calapai (mjcalapai)!
+# 👋 Hi, I'm Mitchell Calapai (mjcalapai)!
 
 I'm a Computer Science student at **UMass Amherst** with minors in **Business** and **Math**. I’m passionate about technology and always looking to learn more and grow as a developer.
 
