@@ -1,28 +1,9 @@
-# 👋 Hi, I'm Mitchell Calapai (mjcalapai)!
+Hi, I am Mitchell Calapai from Massachusetts, USA
 
-I'm a Computer Science student at **UMass Amherst** with minors in **Business** and **Math**. I’m passionate about technology and always looking to learn more and grow as a developer.
+I am a student at UMass Amherst graduating in December of 2026
 
-## 🚀 About Me
+I am looking for full time technical engineering roles, particularly work with cybersecurity
 
-- Seeking: Work and mentorship in Cybersecurity and Software Engineering
-- Programming Languages: Python, Java, JavaScript, C, R, C++
-- Tech Skills: NumPy, Pandas, Wireshark, Zeek, Snort, NodeJS, ReactJS
-
-## 🌱 Currently Learning
-
-I'm actively exploring advanced topics in cybersecurity and full-stack development, and always eager to collaborate on new projects!
-
-## 📫 Let’s Connect!
-
-I'm open to networking, mentorship, and opportunities in tech.  
-Feel free to reach out if you have advice, opportunities, or just want to chat!
-
-## ⚡ Fun Facts
-
-- My favorite sport is Hockey
-- I love to snowboard in the winter and cliff jump in the summer
-- I can do a triple backflip never being a gymnast or diver (yes, really!)
-
----
-
-
+Connect with me on LinkedIn or email for any inquiries
+LinekdIn: Mitchell Calapai
+GMail: mitchellcalapai@gmail.com
