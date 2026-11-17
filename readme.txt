@@ -1,8 +1,6 @@
 Hi, I am Mitchell Calapai from Massachusetts, USA
 
-I am a student at UMass Amherst graduating in December of 2026
-
-I am looking for full time technical engineering roles, particularly work with cybersecurity
+Doing a Masters in Computer Science (Cyber Security Focus) at UMass Amherst
 
 Connect with me on LinkedIn or email for any inquiries
 LinekdIn: Mitchell Calapai
